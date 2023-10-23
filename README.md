@@ -1,2 +1,2 @@
 # APTIV-FrontEnd-formationManagement
-this is for management formation for Employee 
+this is a Formation Management for Employee 
